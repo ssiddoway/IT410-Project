@@ -1,0 +1,19 @@
+{
+  "name": "staticserver",
+  "version": "1.0.0",
+  "description": "static file server",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Steven Siddoway",
+  "license": "ISC"
+}
